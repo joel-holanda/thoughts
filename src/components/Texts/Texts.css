@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&display=swap');
+
+.texts{
+    min-height: 100px;
+    width: 700px;
+    background-image: url("https://i.pinimg.com/564x/77/75/05/7775054a7b9f533c79c451de52f86b23.jpg");
+    display: block;
+    margin: 100px auto;
+    border-radius: 30px;
+    text-align: center;
+
+}
+.texts > p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'IM Fell Great Primer SC', serif;
+    padding: 50px;
+}
+.title-texts{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.author{
+    text-align: end;
+    margin-right: 30px;
+}
