@@ -11,14 +11,13 @@
     width: 300px;
     height: 50px;
     border-radius: 10px;
-    text-align: center;
     border: 2px solid rgba(0, 0, 0, 0.384);
+    text-align: center;
 }
 .box-text{
     width: 500px;
     height: 200px;
     border-radius: 10px;
-    text-align: center;
     border: 2px solid rgba(0, 0, 0, 0.384);
 }
 .submit{
