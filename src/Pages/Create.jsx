@@ -4,7 +4,7 @@ import Boxs from "../components/Boxs/Boxs"
 function Create() {
     return(
         <>
-            <Menu link="/"/>
+            <Menu link="https://thoughts-ivory.vercel.app/"/>
             <Boxs /> 
         </>
     )
