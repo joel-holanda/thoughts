@@ -4,7 +4,7 @@ import Texts from '../components/Texts/Texts'
 function Home(){
     return(
         <>
-            <Menu link=""/>
+            <Menu link="https://thoughts-ivory.vercel.app/"/>
             <Texts />
         </>
     )
