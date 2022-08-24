@@ -1,7 +1,7 @@
 .container-box{
     margin-top: 70px;
 }
-.container-box > input, button{
+.container-box > input, textarea, button{
     display: block;
     margin: 0 auto;
     margin-top: 20px;
@@ -15,8 +15,8 @@
     text-align: center;
 }
 .box-text{
-    width: 500px;
-    height: 200px;
+    max-width: 500px;
+    height: 150px;
     border-radius: 10px;
     border: 2px solid rgba(0, 0, 0, 0.384);
 }

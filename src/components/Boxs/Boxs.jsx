@@ -38,13 +38,11 @@ function Boxs(){
             value={title} 
             onChange={(e) => setTitle(e.target.value)}/>
 
-            <input 
-            type="text" 
-            placeholder="Seu pensamento..." 
+            <textarea
+            placeholder="Seus pensamentos..." 
             className='box-text'
             value={text}
-            onChange={(e) => setText(e.target.value)}
-            />
+            onChange={(e) => setText(e.target.value)} />
 
             <input 
             type="text"
